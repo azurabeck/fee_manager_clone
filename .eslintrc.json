@@ -1,0 +1,4 @@
+{
+  "ignorePatterns": ["./src/pages/app/dashboard/components/Tab/index.tsx"],
+  "extends": "next/core-web-vitals"
+}
